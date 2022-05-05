@@ -23,6 +23,11 @@
 
 <br />
 
+## 🎥 시연 영상
+https://user-images.githubusercontent.com/81283255/166880046-f3666398-e3e7-4cab-a527-bc03a87c7b2b.mp4
+
+<br />
+
 ## :nut_and_bolt: 서비스 주요 기능
 
 ### 메인 기능
